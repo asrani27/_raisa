@@ -177,9 +177,10 @@
                                 <table width="100%">
                                     <tr>
                                         <td>
-                                            <h3 class="m-b-10" style="color: white">sistem informasi manajemen
+                                            <h3 class="m-b-10" style="color: white">
+                                                {{strtoupper(sistem informasi manajemen
 
-                                                perjanjian kerja waktu tertentu pada Bank Kalsel Cabang Paringin
+                                                perjanjian kerja waktu tertentu pada Bank Kalsel Cabang Paringin)}}
                                             </h3>
                                         </td>
                                     </tr>
