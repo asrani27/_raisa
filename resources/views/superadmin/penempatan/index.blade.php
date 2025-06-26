@@ -12,6 +12,7 @@
 
                         <a href="/superadmin/penempatan/add" class="btn btn-primary">Tambah</a>
                         <a href="/superadmin/penempatan/print" class="btn btn-danger" target="_blank">PRINT</a>
+
                     </div>
                 </div>
             </div>
